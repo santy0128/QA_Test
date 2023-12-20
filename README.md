@@ -10,6 +10,8 @@
 
 ### you can find different folders, each one has tests for each application for example: Postman's Folder is only for Postman test like upload and login.
 
+### Within the folders there may be a folder called "Resources", this folder contains the file used in the upload test.
+
 ## For use
 
 ### 1. Download the repository: `https://github.com/santy0128/QA_Test`
