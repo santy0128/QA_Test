@@ -1,4 +1,4 @@
-#QA_Test
+# QA_Test
 
 ### This repository contains Quality Assurance (QA) tests for job opportunity. It provides a series of tests written in Python with Selenium, Jmeter, Postman and SQL that can be executed to test loggin,upload and UI test.
 
@@ -10,14 +10,14 @@
 
 ### 3.To run the test, open the application and load the file that you previously downloaded from the repository and then you can run the test, make sure that if you open postman you are loading files that are inside the postman folder, also with Jmeter
 
-##Functions
+## Functions
 
 ### These tests were developed for scraping and UI testing with python and selenium, upload files and login testing with Postman and also upload files testing with Jmeter.
 
-#Contact
+# Contact
 
-###If you have any questions or suggestions about this project,feel free to contact me:
+### If you have any questions or suggestions about this project,feel free to contact me:
 
-#Name: `Santiago Ortega Jimenez`
+## Name: `Santiago Ortega Jimenez`
 
-#Email: `santiagortega2@gmail.com`
+## Email: `santiagortega2@gmail.com`
