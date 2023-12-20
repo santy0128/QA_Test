@@ -18,6 +18,6 @@
 
 ### If you have any questions or suggestions about this project,feel free to contact me:
 
-## Name: `Santiago Ortega Jimenez`
+### Name: `Santiago Ortega Jimenez`
 
-## Email: `santiagortega2@gmail.com`
+### Email: `santiagortega2@gmail.com`
