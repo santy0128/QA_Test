@@ -1,36 +1,23 @@
-QA_Test
+#QA_Test
 
-This repository contains Quality Assurance (QA) tests for job opportunity. It provides a series of tests written in Python with Selenium, Jmeter, Postman and SQL that can be executed to ensure the proper functionality of the application.
+### This repository contains Quality Assurance (QA) tests for job opportunity. It provides a series of tests written in Python with Selenium, Jmeter, Postman and SQL that can be executed to test loggin,upload and UI test.
 
-Contents
+## For use
 
-/tests: Directory containing the written tests for the XYZ application.
+### 1. Download the repository: `https://github.com/santy0128/QA_Test`
 
-/docs: Directory containing additional documentation on test execution and setup.
+### 2. Install dependencies: `pip install behave` and `pip install selenium`, also need to download the last version of Postman, Jmeter and Python
 
-/resources: Files and additional resources used in the tests.
-Setup
+### 3.To run the test, open the application and load the file that you previously downloaded from the repository and then you can run the test, make sure that if you open postman you are loading files that are inside the postman folder, also with Jmeter
 
-Before running the tests, make sure you have Postman, Jmeter, SQL, Python and Selenium installed and follow the setup steps described in the documentation in /docs.
+##Functions
 
+### These tests were developed for scraping and UI testing with python and selenium, upload files and login testing with Postman and also upload files testing with Jmeter.
 
-Running the Tests
+#Contact
 
+###If you have any questions or suggestions about this project,feel free to contact me:
 
-To execute the tests, follow the steps below:
+#Name: `Santiago Ortega Jimenez`
 
-Open a terminal or command line.
-
-Navigate to the /tests directory.
-
-Run the command [test execution command] to initiate the tests.
-
-Be sure to review the detailed documentation in /docs for additional information on execution and expected test results.
-
-Contact
-
-If you have any questions or suggestions about this project,feel free to contact me:
-
-Name: Santiago Ortega Jimenez
-
-Email: santiagortega2@gmail.com
+#Email: `santiagortega2@gmail.com`
