@@ -29,7 +29,7 @@ Be sure to review the detailed documentation in /docs for additional information
 
 Contact
 
-If you have any questions or suggestions about this project, feel free to contact the maintainers:
+If you have any questions or suggestions about this project, feel free to contact me:
 
 Name: Santiago Ortega Jimenez
 
