@@ -20,6 +20,10 @@
 
 ### 3.To run the test, open the application and load the file that you previously downloaded from the repository and then you can run the test, make sure that if you open postman you are loading files that are inside the postman folder, also with Jmeter.
 
+## Note:
+
+### For Postman test the environment or domain variable is in the collection variables tab.
+
 ## Contact
 
 ### If you have any questions or suggestions about this project,feel free to contact me:
