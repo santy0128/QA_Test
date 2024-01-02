@@ -16,9 +16,11 @@
 
 ### 1. Download the repository: `https://github.com/santy0128/QA_Test`
 
-### 2. Install dependencies: `pip install behave` and `pip install selenium`, also need to download the last version of Postman, Jmeter and Python.
+### 2. Install dependencies: `pip install behave` and `pip install selenium`, also need to download the last version of Postman, Jmeter, Phyton and the webdriver controller of your browser in this case is Edge.
 
 ### 3.To run the test, open the application and load the file that you previously downloaded from the repository and then you can run the test, make sure that if you open postman you are loading files that are inside the postman folder, also with Jmeter.
+
+### 4.To run UI BDD Test, open the terminal in BDD directory and then write in the terminal "behave".
 
 ## Note:
 
